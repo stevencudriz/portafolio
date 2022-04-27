@@ -34,4 +34,4 @@ function Header(){
     )
 }
 
-export defautl Header;
+export default Header;
