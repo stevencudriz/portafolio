@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import logo from "./logo.svg"
 import "./App.css"
-import "./header.js";
+import Header from "./header";
 
 class LambdaDemo extends Component {
   constructor(props) {
