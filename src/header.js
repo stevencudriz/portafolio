@@ -33,3 +33,5 @@ function Header(){
     </>
     )
 }
+
+export defautl Header;
