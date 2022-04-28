@@ -1,5 +1,4 @@
 import React from 'react';
-import poligono from './lambda/Polygon 1.png';
 import pc from './lambda/pc.png';
 
 function Seccion1 (){
@@ -12,7 +11,7 @@ function Seccion1 (){
           <h1 class="titulo1">Bievenido a mi portafolio</h1>
         </div>
         <div class="col-md-6 poligono">
-          <img src={pc}/>
+          <img src={pc} alt="hola"/>
         </div>
       </div>
     </div>
