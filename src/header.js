@@ -24,7 +24,7 @@ function Header(){
           <a class="nav-link" href="#habilidades">Habilidades</a>
         </li>
         <li class="nav-item">
-          <a class="btn btn-primary" href="#cotizar-proyecto">Cotizar proyecto</a>
+          <a class="btn btn-primary contacto" href="#cotizar-proyecto">Cotizar proyecto</a>
         </li>
       </ul>
     </div>
