@@ -11,7 +11,7 @@ function Seccion1 (){
           <h1 class="titulo1">Bievenido a mi portafolio</h1>
         </div>
         <div class="col-md-6 poligono">
-          <img src={pc} alt="hola"/>
+          <img src={pc} alt="hola" class="pc"/>
         </div>
       </div>
     </div>
