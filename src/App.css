@@ -50,6 +50,13 @@
   text-align:left;
 }
 
+.poligono{
+  background:url('./lambda/Polygon 1.png');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center center;
+}
+
 .pc{
 
   width:70%;
