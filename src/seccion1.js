@@ -8,7 +8,7 @@ function Seccion1 (){
       <div class="row">
         <div class="col-md-6 text-left">
           <h1 class="subtitulo1">Steven Cudriz, web dev</h1>
-          <h1 class="titulo1">Bievenido a mi <br>portafolio</h1>
+          <h1 class="titulo1">Bienvenido a mi <br>portafolio</h1>
         </div>
         <div class="col-md-6 poligono text-center">
           <img src={pc} alt="hola" class="pc"/>
