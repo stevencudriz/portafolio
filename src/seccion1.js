@@ -4,7 +4,7 @@ import pc from './lambda/pc.gif';
 function Seccion1 (){
   
   return(
-    <div class="container w-100 fondo1">
+    <div class="container-fluid w-100 fondo1">
       <div class="row">
         <div class="col-md-6 text-left">
           <h1 class="subtitulo1">Steven Cudriz, web dev</h1>
