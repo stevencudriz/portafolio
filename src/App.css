@@ -12,6 +12,13 @@
   background:#DFDEFF!important;
 }
 
-.contacto{
-      vertical-align: text-top!important;
+.contacto {
+    padding-left: 11px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 7px;
+    background: #4299FF;
+    border: none;
 }
