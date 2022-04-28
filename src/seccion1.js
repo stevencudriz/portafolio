@@ -1,5 +1,5 @@
 import React from 'react';
-import pc from './lambda/pc.png';
+import pc from './lambda/pc.gif';
 
 function Seccion1 (){
   
