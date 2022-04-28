@@ -74,4 +74,28 @@
   background-size:cover;
 }
 
+.titulo2{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 91px;
+  line-height: 111px;
+  color: #23227C;
+}
+
+.titulo2-sm{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+}
+
+.texto2{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 54px;
+  /* or 174% */
+  color: #000000;
+}
+
 /*Seccion 2*/
