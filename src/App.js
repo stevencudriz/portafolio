@@ -11,8 +11,8 @@ import Seccion6 from './seccion6';
 function App (){
 
     return (
-      <Header/>
-      <Seccion1/>
+      <Header></Header>
+      <Seccion1></Seccion1>
     )
 
 }
