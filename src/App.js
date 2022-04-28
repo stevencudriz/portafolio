@@ -11,8 +11,10 @@ import Seccion6 from './seccion6';
 function App (){
 
     return (
+        <>
       <Header></Header>
       <Seccion1></Seccion1>
+        </>
     )
 
 }
