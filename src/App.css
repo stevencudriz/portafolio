@@ -121,7 +121,37 @@
     padding: 32% 5%;
 }
   
+  .fondo2 {
+    background: url('./lambda/rectangulo.png');
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    padding: 7% 4% 9%;
+}
   
+  .titulo2 {
+    font-size: 48px;
+    line-height: 111px;
+    text-align: center;
+    color: #030330;
+}
+  
+  .titulo2-sm {
+    font-size: 35px;
+    line-height: 49px;
+    margin-top: 52px;
+    text-align: center;
+    color: #030330;
+}
+  
+  .texto2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 54px;
+    color: #fff;
+    text-align: center;
+  }
   
 }
 
