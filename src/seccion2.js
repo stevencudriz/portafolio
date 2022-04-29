@@ -6,7 +6,7 @@ function Seccion2(){
   
   return(
     
-    <div class="container-fluid w-100">
+    <div class="container-fluid w-100 fondo2">
       <div class="row justify-content-center">
       <div class="col-md-6">
         <h2 class="titulo2">{titulo}</h2>
@@ -15,7 +15,7 @@ function Seccion2(){
         <h3 class="titulo2-sm">¿Porqué elegirme?</h3>
         <p class="texto2">Trabajo en conjunto para organizar tus ideas y llevar tu proyecto a la realidad. </p>
       </div>
-      <div class="col-md-6 fondo2">
+      <div class="col-md-6">
       </div>
         </div>
     </div>
