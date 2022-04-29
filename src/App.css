@@ -66,11 +66,12 @@
 
 /*Seccion 2*/
 
-.fondo2{
-  background:url('./lambda/rectangulo.png');
-  background-repeat:no-repeat;
-  background-position:right;
-  background-size:cover;
+.fondo2 {
+    background: url(/static/media/rectangulo.d8ec3a51.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: contain;
+    padding: 7% 4% 9%;
 }
 
 .titulo2{
@@ -86,6 +87,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 49px;
+  margin-top: 52px;
   color: #23227C;
 }
 
