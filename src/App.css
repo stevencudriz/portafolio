@@ -67,7 +67,7 @@
 /*Seccion 2*/
 
 .fondo2 {
-    background: url(/static/media/rectangulo.d8ec3a51.png);
+    background: url('./ectangulo.png');
     background-repeat: no-repeat;
     background-position: 100%;
     background-size: contain;
