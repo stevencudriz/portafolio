@@ -12,7 +12,7 @@ function Seccion2(){
         <h2 class="titulo2">{titulo}</h2>
         <p class="texto2">Desarrollador web con 2 años de experiencia, con enfoque en CMS y desarrollo a la medida.</p>
 
-        <h3 class="titulo2-sm mt-5">¿Porqué elegirme?</h3>
+        <h3 class="titulo2-sm mt-5 pt-5">¿Porqué elegirme?</h3>
         <p class="texto2">Trabajo en conjunto para organizar tus ideas y llevar tu proyecto a la realidad. </p>
       </div>
       <div class="col-md-6">
