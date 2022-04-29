@@ -25,11 +25,12 @@
 
 /*Seccion 1*/
 
-.fondo1{
+.fondo1 {
+    background: -webkit-gradient(linear,left top,left bottom,from(#dfdeff),to(rgba(223,222,255,0)));
+    background: -webkit-linear-gradient(top,#dfdeff,rgba(223,222,255,0));
     background: linear-gradient(180deg,#dfdeff,rgba(223,222,255,0));
     margin: auto;
-    padding: 5%;
-    padding-top: 10%;
+    padding: 15% 5% 5%;
 }
 
 .subtitulo1{
@@ -44,7 +45,7 @@
 .titulo1{
   font-style: normal;
   font-weight: 700;
-  font-size: 91px;
+  font-size: 88px;
   line-height: 111px;
   color: #23227C;
   text-align:left;
@@ -57,10 +58,8 @@
   background-position:center center;
 }
 
-.pc{
-
-  width:70%;
-  
+.pc {
+    width: 100%;
 }
 
 /*Seccion 1*/
