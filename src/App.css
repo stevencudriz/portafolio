@@ -113,15 +113,26 @@
     }
   
     .titulo3{
-      
+      font-style: normal;
+      font-weight: 700;
+      font-size: 91px;
+      line-height: 111px;
+      text-align: center;
+      color: #23227C;
+
     }
   
     .servicio1 .servicio3{
-      
+      background: #FFFFFF;
+      box-shadow: 0px 4px 6px 2px #DFDEFF;
+      border-radius: 6px;
     }
   
     .servicio2{
-    
+      background: #FFFFFF;
+      box-shadow: 0px 4px 13px 8px #DFDEFF;
+      border-radius: 6px;
+      margin-top:-20px;
     }
   
   /* Seccion3 */
