@@ -15,7 +15,7 @@ function Seccion3(){
       <div class="row justify-content-center">
         <div class="col-md-12"><h1 class="titulo3">Mis servicios</h1></div>
         <div class="col-md-4" style={estilos}>
-           <div class="card">
+           <div class="card h-100">
             <div class="card-header text-center servicio1">
               <img src={servicio1} alt="" class="text-center"/>
             </div>
@@ -35,7 +35,7 @@ function Seccion3(){
 
        <div class="col-md-4">
          
-         <div class="card">
+         <div class="card h-100">
             <div class="card-header text-center servicio2">
               <img src={servicio2} alt="" />
             </div>
