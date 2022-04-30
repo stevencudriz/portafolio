@@ -20,7 +20,7 @@ function Seccion3(){
               <img src={servicio1} alt="" class="text-center"/>
             </div>
             
-            <div class="card-body">
+            <div class="card-body p-5">
             <p class="texto3">Desarrollo de paginas web</p>
             <ul>
               <li class="lista3">Landing pages</li>
@@ -40,7 +40,7 @@ function Seccion3(){
               <img src={servicio2} alt="" />
             </div>
             
-            <div class="card-body">
+            <div class="card-body p-5">
             <p class="texto3">App web a la medida</p>
            <ul>
               <li class="lista3">Desarrollo tu app adaptada a tus requerimientos</li>
@@ -58,7 +58,7 @@ function Seccion3(){
               <img src={servicio3} alt="" />
             </div>
             
-            <div class="card-body">
+            <div class="card-body p-5">
             <p class="texto3">Soporte y arreglo de bugs</p>
            <ul>
                <li class="lista3">Realizo ajustes a tu web y la optimizo al 100</li>
