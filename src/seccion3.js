@@ -48,7 +48,7 @@ function Seccion3(){
           <div class="card-body">
             <p>Soporte y arreglo de bugs</p>
             <ul>
-              <li>Realizo ajustes a tu web y la optimizo al 100%/li>
+              <li>Realizo ajustes a tu web y la optimizo al 100</li>
             </ul>
           </div>
          </div>
