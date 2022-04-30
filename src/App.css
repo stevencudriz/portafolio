@@ -258,6 +258,21 @@
     margin-bottom: 81px;
 }
   
+  .texto3{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 30px;
+      line-height: 37px;
+      text-align: center;
+    }
+
+    .lista3{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 30px;
+      line-height: 37px;
+    }
+  
   /* Seccion3 */
   
 }
