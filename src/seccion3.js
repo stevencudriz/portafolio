@@ -9,6 +9,10 @@ function Seccion3(){
         marginTop:45,
     }
   
+  const estilos2={
+        marginTop:-20,
+  }
+  
   return(
     
      <div class="container-fluid w-100 fondo3">
@@ -33,7 +37,7 @@ function Seccion3(){
 
         </div>
 
-       <div class="col-md-4">
+       <div class="col-md-4" style={estilos2}>
          
          <div class="card h-100">
             <div class="card-header pt-5 text-center servicio2">
