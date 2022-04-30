@@ -222,17 +222,41 @@
       padding: 15% 5% 15%;
     }
   
-    .titulo3{
-      
-    }
+    .titulo3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 111px;
+    text-align: center;
+    color: #23227c;
+    margin-bottom: 81px;
+}
   
-    .servicio1 .servicio3{
+    .servicio1 {
       
     }
   
     .servicio2{
     
     }
+  
+    .servicio3{
+  
+  }
+  
+  .s1{margin-top:0px!important;}
+  .s2{margin-top:0px!important;}
+  .s3{margin-top:0px!important;}
+  
+  .titulo3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 111px;
+    text-align: center;
+    color: #23227c;
+    margin-bottom: 81px;
+}
   
   /* Seccion3 */
   
