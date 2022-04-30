@@ -12,7 +12,7 @@ function Seccion3(){
         <div class="col-md-4 servicio1">
          <div class="card">
           <div class="card-header">
-           <img src={servicio1} />
+           <img src={servicio1} alt="" />
           </div>
           <div class="card-body">
             <p>Desarrollo de paginas web</p>
@@ -29,7 +29,7 @@ function Seccion3(){
         <div class="col-md-4 servicio2">
           <div class="card">
           <div class="card-header">
-           <img src={servicio2} />
+           <img src={servicio2} alt="" />
           </div>
           <div class="card-body">
             <p>App web a la medida</p>
@@ -43,7 +43,7 @@ function Seccion3(){
         <div class="col-md-4 servicio3">
           <div class="card">
           <div class="card-header">
-           <img src={servicio3} />
+           <img src={servicio3} alt="" />
           </div>
           <div class="card-body">
             <p>Soporte y arreglo de bugs</p>
