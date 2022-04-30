@@ -10,10 +10,12 @@ function Seccion3(){
       <div class="row justify-content-center">
         <div class="col-md-12"><h1 class="titulo3">Mis servicios</h1></div>
         <div class="col-md-4 servicio1">
-         
-           <img src={servicio1} alt="" class="text-center"/>
-         
-   
+           <div class="card">
+            <div class="card-header text-center">
+              <img src={servicio1} alt="" class="text-center"/>
+            </div>
+            
+            <div class="card-body">
             <p>Desarrollo de paginas web</p>
             <ul>
               <li>Landing pages</li>
@@ -21,24 +23,44 @@ function Seccion3(){
               <li>Blogs</li>
               <li>Portales web</li>
             </ul>
+          </div>
+          </div>
 
         </div>
 
-       <div class="col-md-4 servicio2">
-           <img src={servicio2} alt="" />
+       <div class="col-md-4">
+         
+         <div class="card">
+            <div class="card-header text-center">
+              <img src={servicio2} alt="" />
+            </div>
+            
+            <div class="card-body">
             <p>App web a la medida</p>
-            <ul>
+           <ul>
               <li>Desarrollo tu app adaptada a tus requerimientos</li>
             </ul>
+          </div>
+          </div>
+         
           
         </div>
 
         <div class="col-md-4 servicio3">
-           <img src={servicio3} alt="" />
+          
+          <div class="card">
+            <div class="card-header text-center">
+              <img src={servicio3} alt="" />
+            </div>
+            
+            <div class="card-body">
             <p>Soporte y arreglo de bugs</p>
-            <ul>
-              <li>Realizo ajustes a tu web y la optimizo al 100</li>
+           <ul>
+               <li>Realizo ajustes a tu web y la optimizo al 100</li>
             </ul>
+          </div>
+          </div>
+          
         </div>
 
       </div>
