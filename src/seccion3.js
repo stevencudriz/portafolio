@@ -18,7 +18,7 @@ function Seccion3(){
      <div class="container-fluid w-100 fondo3">
       <div class="row justify-content-center">
         <div class="col-md-12"><h1 class="titulo3">Mis servicios</h1></div>
-        <div class="col-md-4" style={estilos}>
+        <div class="col-md-4 s1" style={estilos}>
            <div class="card h-100">
             <div class="card-header pt-5 text-center servicio1">
               <img src={servicio1} alt="" class="text-center"/>
@@ -37,7 +37,7 @@ function Seccion3(){
 
         </div>
 
-       <div class="col-md-4">
+       <div class="col-md-4 s2">
          
          <div class="card h-70" style={estilos2}>
             <div class="card-header pt-5 text-center servicio2">
@@ -55,7 +55,7 @@ function Seccion3(){
           
         </div>
 
-        <div class="col-md-4 " style={estilos}>
+        <div class="col-md-4 s3" style={estilos}>
           
           <div class="card h-100">
             <div class="card-header pt-5 text-center servicio3">
