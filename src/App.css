@@ -166,6 +166,8 @@
       background: linear-gradient(180deg, #C8E8FF 0%, rgba(223, 222, 255, 0) 100%, #4299FF 100%);
       filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
       border-radius: 0px;
+      margin: auto;
+      padding: 15% 5% 15%;
     }
   
     .titulo3{
