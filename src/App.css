@@ -122,7 +122,12 @@
       margin-bottom: 81px;
     }
   
-    .servicio1 .servicio3{
+    .servicio1 {
+      background: white;
+      border: none;
+    }
+
+    .servicio3{
       background: white;
       border: none;
     }
