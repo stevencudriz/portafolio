@@ -11,7 +11,7 @@ function Seccion3(){
         <div class="col-md-12"><h1 class="titulo3">Mis servicios</h1></div>
         <div class="col-md-4 servicio1">
          <div class="card">
-          <div class="card-header">
+          <div class="card-header text-center">
            <img src={servicio1} alt="" />
           </div>
           <div class="card-body">
@@ -28,7 +28,7 @@ function Seccion3(){
 
         <div class="col-md-4 servicio2">
           <div class="card">
-          <div class="card-header">
+          <div class="card-header text-center">
            <img src={servicio2} alt="" />
           </div>
           <div class="card-body">
@@ -42,7 +42,7 @@ function Seccion3(){
 
         <div class="col-md-4 servicio3">
           <div class="card">
-          <div class="card-header">
+          <div class="card-header text-center">
            <img src={servicio3} alt="" />
           </div>
           <div class="card-body">
