@@ -26,18 +26,18 @@ function Seccion3(){
          </div>
         </div>
 
-        <div class="col-md-4 servicio2">
-          <div class="card">
+       <div class="col-md-4 servicio2">
+         <div class="card">
           <div class="card-header text-center">
            <img src={servicio2} alt="" />
           </div>
           <div class="card-body">
             <p>App web a la medida</p>
             <ul>
-            <li>Desarrollo tu app adaptada a tus requerimientos</li>
-          </ul>
+              <li>Desarrollo tu app adaptada a tus requerimientos</li>
+            </ul>
           </div>
-         </div>    
+         </div>
         </div>
 
         <div class="col-md-4 servicio3">
