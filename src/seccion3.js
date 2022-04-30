@@ -53,7 +53,7 @@ function Seccion3(){
 
         <div class="col-md-4 " style={estilos}>
           
-          <div class="card">
+          <div class="card h-100">
             <div class="card-header text-center servicio3">
               <img src={servicio3} alt="" />
             </div>
