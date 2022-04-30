@@ -21,12 +21,12 @@ function Seccion3(){
             </div>
             
             <div class="card-body">
-            <p>Desarrollo de paginas web</p>
+            <p class="texto3">Desarrollo de paginas web</p>
             <ul>
-              <li>Landing pages</li>
-              <li>Tienda virtuales</li>
-              <li>Blogs</li>
-              <li>Portales web</li>
+              <li class="lista3">Landing pages</li>
+              <li class="lista3">Tienda virtuales</li>
+              <li class="lista3">Blogs</li>
+              <li class="lista3">Portales web</li>
             </ul>
           </div>
           </div>
@@ -41,9 +41,9 @@ function Seccion3(){
             </div>
             
             <div class="card-body">
-            <p>App web a la medida</p>
+            <p class="texto3">App web a la medida</p>
            <ul>
-              <li>Desarrollo tu app adaptada a tus requerimientos</li>
+              <li class="lista3">Desarrollo tu app adaptada a tus requerimientos</li>
             </ul>
           </div>
           </div>
@@ -59,9 +59,9 @@ function Seccion3(){
             </div>
             
             <div class="card-body">
-            <p>Soporte y arreglo de bugs</p>
+            <p class="texto3">Soporte y arreglo de bugs</p>
            <ul>
-               <li>Realizo ajustes a tu web y la optimizo al 100</li>
+               <li class="lista3">Realizo ajustes a tu web y la optimizo al 100</li>
             </ul>
           </div>
           </div>
