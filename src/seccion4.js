@@ -1,10 +1,10 @@
  import React from 'react';
- import {php} from './lambda/php.png';
- import {js} from './lambda/js.png';
- import {css} from './lambda/css.png';
- import {mysql} from './lambda/mysql.png';
- import {html} from './lambda/html.png';
- import {wordpress} from './lambda/wordpress.png';
+ import php from './lambda/php.png';
+ import js from './lambda/js.png';
+ import css from './lambda/css.png';
+ import mysql from './lambda/mysql.png';
+ import html from './lambda/html.png';
+ import wordpress from './lambda/wordpress.png';
 
  function Seccion4(){
   return(
