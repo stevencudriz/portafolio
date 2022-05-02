@@ -17,28 +17,52 @@
     </div>
    
      <div class="col-md-4 skill">
-      <img src={php} alt="" class="w-70"/>
-     </div>
+   <div class="card">
+    <div class="card-body"> 
+   <img src={php} alt="" class="w-70"/>
+    </div>  
+      </div>
+   </div>
    
      <div class="col-md-4 skill">
-      <img src={js} alt="" class="w-70"/>
-     </div>
+      <div class="card">
+       <div class="card-body">
+       <img src={js} alt="" class="w-70"/>
+      </div>
+      </div>
+       </div>
    
      <div class="col-md-4 skill">
-      <img src={css} alt="" class="w-70"/>
-     </div>
+      <div class="card">
+       <div class="card-body">
+       <img src={css} alt="" class="w-70"/>
+      </div>
+      </div>
+       </div>
    
      <div class="col-md-4 skill">
-      <img src={mysql} alt="" class="w-70"/>
-     </div>
+      <div class="card">
+       <div class="card-body">
+       <img src={mysql} alt="" class="w-70"/>
+      </div>
+      </div>
+       </div>
    
      <div class="col-md-4 skill">
-      <img src={html} alt="" class="w-70"/>
-     </div>
+      <div class="card">
+       <div class="card-body">
+       <img src={html} alt="" class="w-70"/>
+      </div>
+      </div>
+       </div>
    
      <div class="col-md-4 skill">
-      <img src={wordpress} alt="" class="w-70"/>
-     </div>
+      <div class="card">
+       <div class="card-body">
+       <img src={wordpress} alt="" class="w-70"/>
+      </div>
+      </div>
+       </div>
      
     </div>
    </div>
