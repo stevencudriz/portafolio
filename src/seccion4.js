@@ -1,6 +1,6 @@
 import React from 'react';
-import ImageSlider from './components/ImageSlider';
-import { SliderData } from './components/SliderData';
+import ImageSlider from './ImageSlider';
+import { SliderData } from './SliderData';
 
 function Seccion4{
   return(
