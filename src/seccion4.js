@@ -9,7 +9,7 @@
  function Seccion4(){
   return(
    
-   <div class="container-fluid w-100 fondo4">
+   <div class="container-fluid w-100 fondo4" id="inicio">
     <div class="row justiy-content-center">
      
     <div class="col-md-12 text-center">
