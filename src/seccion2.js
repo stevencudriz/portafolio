@@ -6,7 +6,7 @@ function Seccion2(){
   
   return(
     
-    <div class="container-fluid w-100 fondo2">
+    <div class="container-fluid w-100 fondo2" id="sobre-mi">
       <div class="row justify-content-center">
       <div class="col-md-6">
         <h2 class="titulo2">{titulo}</h2>
