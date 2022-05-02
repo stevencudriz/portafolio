@@ -15,7 +15,7 @@ function Seccion3(){
   
   return(
     
-     <div class="container-fluid w-100 fondo3">
+     <div class="container-fluid w-100 fondo3" id="servicios">
       <div class="row justify-content-center">
         <div class="col-md-12"><h1 class="titulo3">Mis servicios</h1></div>
         <div class="col-md-4 s1" style={estilos}>
