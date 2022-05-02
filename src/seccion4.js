@@ -17,27 +17,27 @@
     </div>
    
      <div class="col-md-4 skill">
-      <img src={php} alt="" class="w-70">
+      <img src={php} alt="" class="w-70"/>
      </div>
    
      <div class="col-md-4 skill">
-      <img src={js} alt="" class="w-70">
+      <img src={js} alt="" class="w-70"/>
      </div>
    
      <div class="col-md-4 skill">
-      <img src={css} alt="" class="w-70">
+      <img src={css} alt="" class="w-70"/>
      </div>
    
      <div class="col-md-4 skill">
-      <img src={mysql} alt="" class="w-70">
+      <img src={mysql} alt="" class="w-70"/>
      </div>
    
      <div class="col-md-4 skill">
-      <img src={html} alt="" class="w-70">
+      <img src={html} alt="" class="w-70"/>
      </div>
    
      <div class="col-md-4 skill">
-      <img src={wordpress} alt="" class="w-70">
+      <img src={wordpress} alt="" class="w-70"/>
      </div>
      
     </div>
