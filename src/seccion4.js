@@ -4,9 +4,7 @@ import { SliderData } from './SliderData';
 
 function Seccion4(){
   return(
-    <>
-      <ImageSlider slides={SliderData} />
-    </>
+    
   );
 }
 
