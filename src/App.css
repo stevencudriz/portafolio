@@ -106,7 +106,6 @@
   
     .fondo3{
       background: linear-gradient(180deg, #C8E8FF 0%, rgba(223, 222, 255, 0) 100%, #4299FF 100%);
-      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
       border-radius: 0px;
       margin: auto;
       padding: 10% 5% 10%;
@@ -156,6 +155,24 @@
 
   /* Seccion4 */
 
+  .fondo4{
+    background: linear-gradient(180deg, #C8E8FF 0%, rgba(223, 222, 255, 0) 14.58%, #C8E8FF 100%);
+    padding: 10% 5% 10%;
+  }
+
+  .titulo4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 91px;
+    line-height: 111px;
+    text-align: center;
+    color: #23227C;
+  }
+
+  /* Seccion4 */
+
+  /* Seccion5 */
+  
     .slider {
     position: relative;
     height: 100vh;
@@ -203,7 +220,7 @@
     transform: scale(1.08);
   }
 
-  /* Seccion4 */
+  /* Seccion5 */
 
 @media(max-width:767px){
   
