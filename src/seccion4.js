@@ -13,7 +13,7 @@
     <div class="row justiy-content-center">
      
     <div class="col-md-12 text-center">
-     <h1 class="titulo5">Habilidades</h1>
+     <h1 class="titulo4">Habilidades</h1>
     </div>
    
      <div class="col-md-4 skill">
