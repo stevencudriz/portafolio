@@ -23,6 +23,14 @@
     border: none;
 }
 
+.contacto:hover{
+    color: #fff;
+    border-color: #0a58ca;
+    background: linear-gradient(45deg, #0dcaf0, #4299ff);
+    transform: scale(1.1);
+    transition: 500ms ease-in-out;
+}
+
 /*Seccion 1*/
 
 .fondo1 {
