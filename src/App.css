@@ -119,13 +119,13 @@
       padding: 10% 5% 10%;
     }
   
-    .titulo3{
+    .titulo3 {
       font-style: normal;
       font-weight: 700;
-      font-size: 91px;
+      font-size: 70px;
       line-height: 111px;
       text-align: center;
-      color: #23227C;
+      color: #23227c;
       margin-bottom: 81px;
     }
   
@@ -147,7 +147,7 @@
     .texto3{
       font-style: normal;
       font-weight: 400;
-      font-size: 30px;
+      font-size: 22px;
       line-height: 37px;
       text-align: center;
     }
@@ -155,7 +155,7 @@
     .lista3{
       font-style: normal;
       font-weight: 400;
-      font-size: 30px;
+      font-size: 22px;
       line-height: 37px;
     }
   
