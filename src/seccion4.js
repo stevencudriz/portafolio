@@ -18,7 +18,7 @@
    
      <div class="col-md-4 skill">
    <div class="card">
-    <div class="card-body"> 
+    <div class="card-body text-center"> 
    <img src={php} alt="" class="w-70"/>
     </div>  
       </div>
@@ -26,7 +26,7 @@
    
      <div class="col-md-4 skill">
       <div class="card">
-       <div class="card-body">
+       <div class="card-body text-center">
        <img src={js} alt="" class="w-70"/>
       </div>
       </div>
@@ -34,7 +34,7 @@
    
      <div class="col-md-4 skill">
       <div class="card">
-       <div class="card-body">
+       <div class="card-body text-center">
        <img src={css} alt="" class="w-70"/>
       </div>
       </div>
@@ -42,7 +42,7 @@
    
      <div class="col-md-4 skill">
       <div class="card">
-       <div class="card-body">
+       <div class="card-body text-center">
        <img src={mysql} alt="" class="w-70"/>
       </div>
       </div>
@@ -50,7 +50,7 @@
    
      <div class="col-md-4 skill">
       <div class="card">
-       <div class="card-body">
+       <div class="card-body text-center">
        <img src={html} alt="" class="w-70"/>
       </div>
       </div>
@@ -58,7 +58,7 @@
    
      <div class="col-md-4 skill">
       <div class="card">
-       <div class="card-body">
+       <div class="card-body text-center">
        <img src={wordpress} alt="" class="w-70"/>
       </div>
       </div>
