@@ -171,10 +171,11 @@
   .titulo4{
     font-style: normal;
     font-weight: 700;
-    font-size: 91px;
+    font-size: 70px;
     line-height: 111px;
     text-align: center;
-    color: #23227C;
+    color: #23227c;
+    margin-bottom: 81px;
   }
 
   /* Seccion4 */
